@@ -61,5 +61,5 @@
 
 # Резултаты:
 
-![Results](SPBTechRun_ILiveHereBot/diploma/diploma.jpg)
-![Results](SPBTechRun_ILiveHereBot/diploma/certificate.jpg)
+![Results](diploma/diploma.jpg)
+![Results](diploma/certificate.jpg)
