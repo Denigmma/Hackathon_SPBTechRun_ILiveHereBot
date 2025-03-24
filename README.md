@@ -1,7 +1,7 @@
 # Кейс Интеллектуальный чат-бот «Я здесь живу»
 
 ## Информация о Хакатоне:
-1. **Период проведения:** 31.11.24 - 1.12.24
+1. **Период проведения:** 30.11.24 - 1.12.24
 2. **Количество участников:** 80
 3. **Название команды:** "Победа Мозга"
 4. **Результат:** 3 место
@@ -61,5 +61,5 @@
 
 # Резултаты:
 
-![Results](SPBTechRun_ILiveHereBot/diploma/diploma.jpg)
-![Results](SPBTechRun_ILiveHereBot/diploma/certificate.jpg)
+![Results](diploma/diploma.jpg)
+![Results](diploma/certificate.jpg)
